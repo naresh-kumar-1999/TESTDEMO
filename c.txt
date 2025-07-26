@@ -1,1 +1,1 @@
-This is c.txt file
+this content added from dev 2
